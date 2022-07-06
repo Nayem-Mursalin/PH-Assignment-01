@@ -1,0 +1,152 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+    margin: 0 0;
+}
+
+#upperhead{
+    background-image: linear-gradient(rgba(255,255,255,0.05),rgba(0,0,0,0.95)),
+                url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    position: relative;
+    opacity: 1;
+    background-size: 1440px 669px;
+    height: 669px;
+    width: 1440px;
+    display: flex;
+    margin-bottom: 50px;
+}
+#headertext{
+    padding: 200px 100px 20px 100px;
+    font-size: 110%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.button{
+    background-image: linear-gradient(rgba(196, 219, 242, 0.728), rgba(36, 114, 232, 0.932));
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: none;
+    border-radius: 7px;
+    color: black;
+    border: none;
+}
+#Second-Part{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 200px;
+    color: gray;
+    margin-bottom: 50px;
+}
+.taka-hisab{
+    display: flex;
+    padding-bottom: 40px;
+}
+.taka{
+    height: 20px;
+    width: 20%;
+}
+.table{
+    width: 100%;
+    height: 100px;
+}
+.table-data{
+    margin: 0px 30px;
+    height: 30px;
+    width: 20%;
+    background-color: rgba(194, 232, 241, 0.655);
+}
+#color-table{
+    border-color: red;
+    background-color: rgba(230, 216, 244, 0.857);
+}
+
+.amount-text{
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    padding: 10px 350px;
+    text-align: center;
+    font-size: 20px;
+}
+.other-part{
+    text-align: center;
+    font-size: 25px;
+    padding: 0px 200px;
+    margin-bottom: 100px;
+}
+#donating-plan{
+    display: flex;
+    padding-top: 20px;
+}
+.planning{
+    width: 33%;
+    margin-right: 5px;
+    font-size: 20px;
+}
+#planning-food{
+    background-color: rgb(178, 239, 233);
+}
+#planning-shelter{
+    background-color: rgb(210, 241, 172);
+}
+#planning-education{
+    background-color: rgb(216, 177, 211);
+}
+.icon-style{
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.half-part{
+    width: 50%;
+    padding: 10px 30px;
+}
+#divide-part{
+    display: flex;
+}
+.half-part img{
+    width:90%;
+    height: 100%;
+}
+
+#mail{
+    padding: 75px 50px;
+    background-color: rgb(255, 223, 202);
+}
+#mail-table{
+    width: 300px;
+    text-align: center;
+    height: 35px;
+    border: none;
+}
+#mail-button{
+    background-color: rgb(188, 231, 243);
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 0px;
+    color: black;
+    border: none;
+    height: 35px;
+    margin-left: -6px;
+}
+
+#footer{
+    background-color: black;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: white;
+    height:277;
+    width:1440;
+}
+#footer-text{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: rgb(255, 0, 0);
+}
